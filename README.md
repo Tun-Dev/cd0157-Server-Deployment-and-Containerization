@@ -1,4 +1,4 @@
-Cluster IP: https://1867B79DD4DD67CCDC79030C63E0088C.gr7.us-east-2.eks.amazonaws.com
+Cluster IP: ad845a4500bd54a648f42d7c3aa421d9-1722490176.us-east-2.elb.amazonaws.com
 
 # Deploying a Flask API
 
