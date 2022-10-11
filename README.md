@@ -1,5 +1,9 @@
 Cluster IP: ad845a4500bd54a648f42d7c3aa421d9-1722490176.us-east-2.elb.amazonaws.com
 
+ENV CONTENTS:
+JWT_SECRET='myjwtsecret'
+LOG_LEVEL=DEBUG
+
 # Deploying a Flask API
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
